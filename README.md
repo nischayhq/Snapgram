@@ -34,3 +34,5 @@ Pure syllabus me se jo sabse zyada important topics hain jo exam me baar-baar aa
  1. **Section/Act Name se shuru karo:** Jaise hi Contract ka question dikhe, answer ki pehli line likho: *"According to the Indian Contract Act, 1872..."*. Isse checking karne wale par seedha impact padta hai.
  2. **Headings aur Subheadings:** Kahani ki tarah bada paragraph mat likhna. Bullet points aur points bana kar likhna, jaise maine upar likha hai.
  3. **Examples do:** Agar section number yaad na aaye, toh koi baat nahi, par simple words me **Example (A aur B ka)** dekar point samjha dena.
+
+https://g.co/gemini/share/265fec99d7df
