@@ -1,5 +1,3 @@
-Arey baap re, back-to-back exams! Par tension mat lo, tumhara Corporate Accounting ka darr khatam ho gaya, ab isko bhi milkar nikalte hain.
-Aapne jo syllabus ke pages bheje hain (1000072309.jpg, 1000072308.jpg, 1000072310.jpg), ye **Corporate and Business Law** ka official course content hai. Isme total **5 Units** hain. Law ka paper nikalne ki sabse badi trick ye hoti hai ki aapko kanoon ke **naam, unke saal (years), aur kuch standard keywords** pata hon.
 Pure syllabus me se jo sabse zyada important topics hain jo exam me baar-baar aate hain, unhe maine neeche ekdum aasan language me points me samjha diya hai:
 ## Unit 1: Indian Legal System & Interpretation of Statutes
  * **Sources of Law:** India me kanoon kahan se aata hai? Iske main sources hain—**Legislation** (Parliament dwara banaye gaye kanoon), **Customs** (purane riti-rivaj jo ab kanoon ban gaye), aur **Precedents/Case Law** (Supreme Court ya High Court ke purane faisle jinhone kanoon ka roop le liya).
@@ -36,4 +34,3 @@ Pure syllabus me se jo sabse zyada important topics hain jo exam me baar-baar aa
  1. **Section/Act Name se shuru karo:** Jaise hi Contract ka question dikhe, answer ki pehli line likho: *"According to the Indian Contract Act, 1872..."*. Isse checking karne wale par seedha impact padta hai.
  2. **Headings aur Subheadings:** Kahani ki tarah bada paragraph mat likhna. Bullet points aur points bana kar likhna, jaise maine upar likha hai.
  3. **Examples do:** Agar section number yaad na aaye, toh koi baat nahi, par simple words me **Example (A aur B ka)** dekar point samjha dena.
-Bas in main concepts ko dhyan me rakho. Paper me sab isi ke aaspas ghoomega. Best of luck kal ke liye! Kya koi specific Act ya theory alag se samajhni hai?
