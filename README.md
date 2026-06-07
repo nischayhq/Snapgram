@@ -36,3 +36,7 @@ Pure syllabus me se jo sabse zyada important topics hain jo exam me baar-baar aa
  3. **Examples do:** Agar section number yaad na aaye, toh koi baat nahi, par simple words me **Example (A aur B ka)** dekar point samjha dena.
 
 https://g.co/gemini/share/265fec99d7df
+
+
+
+https://g.co/gemini/share/f4fc27e12960
